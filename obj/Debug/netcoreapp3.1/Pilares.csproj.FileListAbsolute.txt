@@ -1,0 +1,13 @@
+C:\Users\dsgez\Desktop\Pilares\bin\Debug\netcoreapp3.1\Pilares.exe
+C:\Users\dsgez\Desktop\Pilares\bin\Debug\netcoreapp3.1\Pilares.deps.json
+C:\Users\dsgez\Desktop\Pilares\bin\Debug\netcoreapp3.1\Pilares.runtimeconfig.json
+C:\Users\dsgez\Desktop\Pilares\bin\Debug\netcoreapp3.1\Pilares.runtimeconfig.dev.json
+C:\Users\dsgez\Desktop\Pilares\bin\Debug\netcoreapp3.1\Pilares.dll
+C:\Users\dsgez\Desktop\Pilares\bin\Debug\netcoreapp3.1\Pilares.pdb
+C:\Users\dsgez\Desktop\Pilares\obj\Debug\netcoreapp3.1\Pilares.csprojAssemblyReference.cache
+C:\Users\dsgez\Desktop\Pilares\obj\Debug\netcoreapp3.1\Pilares.AssemblyInfoInputs.cache
+C:\Users\dsgez\Desktop\Pilares\obj\Debug\netcoreapp3.1\Pilares.AssemblyInfo.cs
+C:\Users\dsgez\Desktop\Pilares\obj\Debug\netcoreapp3.1\Pilares.csproj.CoreCompileInputs.cache
+C:\Users\dsgez\Desktop\Pilares\obj\Debug\netcoreapp3.1\Pilares.dll
+C:\Users\dsgez\Desktop\Pilares\obj\Debug\netcoreapp3.1\Pilares.pdb
+C:\Users\dsgez\Desktop\Pilares\obj\Debug\netcoreapp3.1\Pilares.genruntimeconfig.cache
